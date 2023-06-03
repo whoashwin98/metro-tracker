@@ -27,8 +27,7 @@
 
 ### Installation
 
-1. Get a free API Key at [https://newsapi.org/](https://newsapi.org/) and [https://openweathermap.org/](https://openweathermap.org/)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone [https://github.com/ash1802/news-weather-app.git]
    ```
