@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">MetroTracker - A distance tracking app for Delhi Metro</h3>
+  <h1 align="center">MetroTracker - A distance tracking app for Delhi Metro</h1>
   <p align="center">
     Helps track the path, time and distance of travel from one metro station to another. Designed for Delhi Metro
   </p>
